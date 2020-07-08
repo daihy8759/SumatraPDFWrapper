@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace PDFtoPrinter
+namespace SumatraPDF
 {
     public static class StringExtensions
     {

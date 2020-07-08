@@ -4,7 +4,7 @@ using System.Reflection;
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace PDFtoPrinter
+namespace SumatraPDF
 {
     /// <summary>
     /// Wrapper over the PDFtoPrinting.exe utility. 

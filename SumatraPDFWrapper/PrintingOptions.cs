@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace PDFtoPrinter
+namespace SumatraPDF
 {
     /// <summary>
     /// Options for a Printer
@@ -63,8 +63,7 @@ namespace PDFtoPrinter
                 " ",
                 new[]
                 {
-                    "-silent",
-                    "-exit-on-print",     
+                    "-s",    
                     this.PrinterName.Format(x => $"-print-to \"{x}\""),
                     this.Copies?.ToString().Format(x => $"-print-settings \"{x}x\""),
                     this.FilePath.Format(x => $"\"{x}\""),

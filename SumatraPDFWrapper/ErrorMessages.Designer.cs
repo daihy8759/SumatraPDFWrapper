@@ -8,7 +8,8 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace PDFtoPrinter {
+namespace SumatraPDF
+{
     using System;
     
     

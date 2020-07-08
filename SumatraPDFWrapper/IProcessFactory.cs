@@ -1,4 +1,4 @@
-﻿namespace PDFtoPrinter
+﻿namespace SumatraPDF
 {
     /// <summary>
     /// Factory that creates <see cref="IProcess"/> instances.

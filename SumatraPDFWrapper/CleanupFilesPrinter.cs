@@ -7,7 +7,7 @@ using System.Printing;
 using System.Threading.Tasks;
 using System.Timers;
 
-namespace PDFtoPrinter
+namespace SumatraPDF
 {
     /// <summary>
     /// Deletes files after printing. Doesn't print files by itselves but use inner printer.

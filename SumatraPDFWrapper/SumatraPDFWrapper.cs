@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace PDFtoPrinter
+namespace SumatraPDF
 {
     [Obsolete("Please use \"SumatraPDF\" instead.")]
     public class SumatraPDFWrapper : SumatraPDFPrinter

@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Threading.Tasks;
 
-namespace PDFtoPrinter
+namespace SumatraPDF
 {
     public interface IPrinter
     {

@@ -1,6 +1,6 @@
 ﻿using System.Diagnostics;
 
-namespace PDFtoPrinter
+namespace SumatraPDF
 {
     /// <inheritdoc/>
     public class SystemProcessFactory : IProcessFactory
